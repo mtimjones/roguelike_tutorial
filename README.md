@@ -4,7 +4,7 @@ TCOD Python RogueLike Tutorial
 - [x] Part  0 : Setting Up
 - [x] Part  1 : Drawing the '@' symbol and moving it around
 
-- [ ] Part  2 : The generic Entity, the render functions, and the map
+- [x] Part  2 : The generic Entity, the render functions, and the map
 - [ ] Part  3 : Generating a dungeon
 
 - [ ] Part  4 : Field of View
