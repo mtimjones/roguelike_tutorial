@@ -8,7 +8,7 @@ TCOD Python RogueLike Tutorial
 - [x] Part  3 : Generating a dungeon
 
 - [x] Part  4 : Field of View
-- [ ] Part  5 : Placing enemies and kicking them (harmlessly)
+- [x] Part  5 : Placing enemies and kicking them (harmlessly)
 
 - [ ] Part  6 : Doing (and taking) some damage
 - [ ] Part  7 : Creating the interface
