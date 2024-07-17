@@ -10,8 +10,8 @@ TCOD Python RogueLike Tutorial
 - [x] Part  4 : Field of View
 - [x] Part  5 : Placing enemies and kicking them (harmlessly)
 
-- [ ] Part  6 : Doing (and taking) some damage
-- [ ] Part  7 : Creating the interface
+- [x] Part  6 : Doing (and taking) some damage
+- [x] Part  7 : Creating the interface
  
 - [ ] Part  8 : Items and Inventory
 - [ ] Part  9 : Ranged Scrolls and Targeting
